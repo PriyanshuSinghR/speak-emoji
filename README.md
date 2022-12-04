@@ -22,6 +22,11 @@
 
 [Live Project](https://emoji-speak-lord.netlify.app/)
 
+## Screenshots
+
+![emoji](https://user-images.githubusercontent.com/52795506/205507163-20ff4ecb-03cd-41cf-8fd1-e871186084df.jpg)
+
+
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/priyanshu844/)
